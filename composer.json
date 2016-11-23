@@ -1,0 +1,17 @@
+{
+    "name": "org_heig/slackinvitemodule",
+    "description": "A Module to create invites to a slack-channel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andreas Heigl",
+            "email": "andreas@heigl.org"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2",
+        "zendframework/zend-mvc": "^3.0",
+        "zendframework/zend-form": "^2.9"
+    }
+}
